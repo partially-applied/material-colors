@@ -1,7 +1,7 @@
 
-name:'partially-applied/material-colors'
-version:'1.0.0'
-description:'flip all arguments'
+name:'@partially-applied/material-colors'
+version:'1.0.2'
+description:'material colors as lists'
 main:'colors.js'
 repository:
 	type:'git'

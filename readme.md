@@ -3,18 +3,18 @@
 
 Material colors as object and lists
 
-```livescript
-colors = require 'material-colors'
+```javascript
+colors = require ('@partially-applied/material-colors')
 
-colors.red[0] # 100 red
+colors.red[0] // 100 red
 
-colors.purple[9] # 900 purple
+colors.purple[9] //900 purple
 
-colors.blue[10] # A100 blue
+colors.blue[10] // A100 blue
 
-color.white # '#000000'
+color.white //'#000000'
 
-coolor.black # '#FFFFFF'
+coolor.black // '#FFFFFF'
 ```
 
 
