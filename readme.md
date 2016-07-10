@@ -4,7 +4,7 @@
 Material colors as object and lists
 
 ```livescript
-colors = require 'partially-appiled/material-colors'
+colors = require 'material-colors'
 
 colors.red[0] # 100 red
 

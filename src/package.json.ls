@@ -1,5 +1,5 @@
 
-name:'partially-applied/material-colors'
+name:'material-colors'
 version:'1.0.0'
 description:'flip all arguments'
 main:'colors.js'
